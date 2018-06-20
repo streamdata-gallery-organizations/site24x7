@@ -4,7 +4,7 @@ x-collection-name: Site24x7
 x-complete: 1
 info:
   title: User Group API
-  description: the-user-group-api
+  description: the-user-group-api-
   version: 1.0.0
 host: www.site24x7.com.
 schemes:
@@ -34,7 +34,7 @@ paths:
         '409: for issues where the request is well-formed but cannot be completed':
           description: ""
       tags:
-      - ""
+      - Groups
     get:
       summary: List of all User Groups
       description: List of all User Groups.
@@ -54,7 +54,7 @@ paths:
         '409: for issues where the request is well-formed but cannot be completed':
           description: ""
       tags:
-      - ""
+      - Groups
   /user_groups/{user_group_id}:
     put:
       summary: Update an user group details
@@ -75,5 +75,5 @@ paths:
         '409: for issues where the request is well-formed but cannot be completed':
           description: ""
       tags:
-      - ""
+      - Groups
 ---

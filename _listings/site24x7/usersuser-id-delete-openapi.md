@@ -30,7 +30,7 @@ paths:
         200:
           description: OK
       tags:
-      - ""
+      - Users
     delete:
       summary: Delete an user
       description: Delete an existing User.

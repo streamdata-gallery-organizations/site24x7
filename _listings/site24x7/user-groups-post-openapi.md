@@ -34,7 +34,7 @@ paths:
         '409: for issues where the request is well-formed but cannot be completed':
           description: ""
       tags:
-      - ""
+      - Groups
 x-streamrank:
   polling_total_time_average: 0
   polling_size_download_average: 0

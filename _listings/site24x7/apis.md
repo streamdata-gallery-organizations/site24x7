@@ -8,8 +8,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/481-site24
 x-kinRank: "7"
 x-alexaRank: "42122"
 tags: Site24x7
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/site24x7/master/_listings/site24x7/apis.md
 specificationVersion: "0.14"
 apis:
@@ -803,7 +803,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/481-site24x7.jpg
   humanURL: https://www.site24x7.com/
   baseURL: ://www.site24x7.com.///users/{user_id}
-  tags: ~
+  tags: Users
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/site24x7/master/_listings/site24x7/usersuser-id-get-postman.md
@@ -839,7 +839,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/481-site24x7.jpg
   humanURL: https://www.site24x7.com/
   baseURL: ://www.site24x7.com.///user_groups
-  tags: ~
+  tags: Groups
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/site24x7/master/_listings/site24x7/user-groups-post-postman.md
@@ -851,7 +851,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/481-site24x7.jpg
   humanURL: https://www.site24x7.com/
   baseURL: ://www.site24x7.com.///user_groups/{user_group_id}
-  tags: ~
+  tags: Groups
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/site24x7/master/_listings/site24x7/user-groupsuser-group-id-put-postman.md
@@ -863,7 +863,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/481-site24x7.jpg
   humanURL: https://www.site24x7.com/
   baseURL: ://www.site24x7.com.///user_groups
-  tags: ~
+  tags: Groups
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/site24x7/master/_listings/site24x7/user-groups-get-postman.md
