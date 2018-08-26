@@ -4,7 +4,7 @@ url: site24x7.streamdata.gallery
 tag: Site24x7
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-entities
+github_user: streamdata-gallery-topics
 github_repo: site24x7
 github_branch: master
 collections:
